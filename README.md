@@ -1,19 +1,18 @@
-![](https://github.com/driesvints/driesvints/blob/master/banner.jpeg)
+![](https://github.com/stephenjude/stephenjude/blob/master/banner.jpg)
 
 ### Hi there 👋
 
-I'm [Dries](https://driesvints.com), open-source maintainer and one of the core team members of [Laravel](https://github.com/laravel) where I maintain the first-party libraries. I also do the weekly releases of all the first-party packages.
+I'm [Jude](https://stephenjude.me), open-source maintainer and one of the core team members of [Across The Horizon Technologies](https://athtgroup.com/) where I build and maintain both external and internal APIs. I also do take on the CTO roles and responsibilities.
 
 In my free time I've built and maintain various open-source projects of my own like:
 
-- [Blade UI Kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views
-- [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - Easily use SVG icons in your Laravel Blade views
-- [Dotfiles](https://github.com/driesvints/dotfiles) - Start using dotfiles on your Mac
-- [PHP GitHub Sponsors](https://github.com/github-php/sponsors) - A package for PHP to interact with GitHub Sponsors
-- [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
-- [Laravel EventSauce](https://github.com/EventSaucePHP/LaravelEventSauce) - Start using Event Sourcing in your Laravel app
-- [VatCalculator](https://github.com/driesvints/vat-calculator) - Handle all the hard stuff related to EU MOSS tax/vat regulations
+- [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
+- [Lite Blog](https://github.com/stephenjude/lite-blog) - A Laravel blog generator.
+- [Api Test Helper](https://github.com/stephenjude/api-test-helper) - A collection of helper methods for testing and debugging API endpoints.
+- [Breeze Api](https://github.com/stephenjude/breeze-api) - Minimal Laravel API authentication scaffolding with Sanctum
+- [Default Model Sorting](https://github.com/stephenjude/default-model-sorting) - Add custom default sorting column to your eloquent model.
+- [Simple Query Filter](https://github.com/stephenjude/simple-query-filter) - Filter Eloquent ORM queries based on HTTP request.
 
-I also co-organise [monthly user group events](https://fullstackbelgium.be/) here in Belgium in the cities of Antwerp and Ghent. And I co-organise the [Full Stack Europe](https://fullstackeurope.com/) conference here in Antwerp. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://driesvints.com).
+I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.com).
 
-Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+Working on open-source is the eaisest way I payback for the free things I have been using and I want to be able to do that as much and as long as I possible can. Thanks for visiting!
