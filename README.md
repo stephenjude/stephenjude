@@ -8,6 +8,7 @@ In my free time I've built and maintain various open-source projects of my own l
 
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [Lite Blog](https://github.com/stephenjude/lite-blog) - A Laravel blog generator.
+- [Filament Blog Builder](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [Api Test Helper](https://github.com/stephenjude/api-test-helper) - A collection of helper methods for testing and debugging API endpoints.
 - [Breeze Api](https://github.com/stephenjude/breeze-api) - Minimal Laravel API authentication scaffolding with Sanctum
 - [Default Model Sorting](https://github.com/stephenjude/default-model-sorting) - Add custom default sorting column to your eloquent model.
