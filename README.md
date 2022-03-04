@@ -13,6 +13,7 @@ In my free time I've built and maintain various open-source projects of my own l
 - [Breeze Api](https://github.com/stephenjude/breeze-api) - Minimal Laravel API authentication scaffolding with Sanctum
 - [Default Model Sorting](https://github.com/stephenjude/default-model-sorting) - Add custom default sorting column to your eloquent model.
 - [Simple Query Filter](https://github.com/stephenjude/simple-query-filter) - Filter Eloquent ORM queries based on HTTP request.
+- [Paystacklite](https://github.com/stephenjude/paystack-lite) - The Fastest Way To Setup Paystack Checkout Form In Your Laravel Application.
 
 I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.com).
 
