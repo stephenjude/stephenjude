@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm [Jude](https://stephenjude.me), open-source maintainer and one of the core team members of [Across The Horizon Technologies](https://athtgroup.com/) where I build and maintain both external and internal APIs. I also do take on the CTO roles and responsibilities.
+I'm [Jude](https://stephenjude.me), open-source maintainer and one of the core team members of [Pay4Me](https://pay4me.app/) where I build and maintain both external and internal APIs. I also do take on the CTO roles and responsibilities.
 
 In my free time I've built and maintain various open-source projects of my own like:
 
