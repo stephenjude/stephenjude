@@ -6,6 +6,7 @@ I'm [Jude](https://stephenjude.me), open-source maintainer and one of the core t
 
 In my free time I've built and maintain various open-source projects of my own like:
 
+- [Laravel Wallet](https://github.com/stephenjude/laravel-wallet) - A simple wallet implementation for Laravel.
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [Lite Blog](https://github.com/stephenjude/lite-blog) - A Laravel blog generator.
 - [Filament Blog Builder](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
@@ -15,6 +16,6 @@ In my free time I've built and maintain various open-source projects of my own l
 - [Simple Query Filter](https://github.com/stephenjude/simple-query-filter) - Filter Eloquent ORM queries based on HTTP request.
 - [Paystacklite](https://github.com/stephenjude/paystack-lite) - The Fastest Way To Setup Paystack Checkout Form In Your Laravel Application.
 
-I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.com).
+I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.me).
 
 Working on open-source is the easiest way I payback for the free things I have been using and I want to be able to do that as much and as long as I possibly can. Thanks for visiting!
