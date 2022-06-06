@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I'm [Jude](https://stephenjude.me), open-source maintainer and one of the core team members of [Pay4Me](https://pay4me.app/) where I build and maintain both external and internal APIs. I also do take on the CTO roles and responsibilities.
+I'm [Jude](https://stephenjude.me), open-source maintainer and the CTO of [Pay4Me](https://pay4me.app/) where I build and maintain both external and internal APIs while managing the engineering team.
 
-In my free time I've built and maintain various open-source projects of my own like:
+In my free time I've built and maintained various open-source projects of my own like:
 
 - [Wallet](https://github.com/stephenjude/laravel-wallet) - A simple wallet implementation for Laravel.
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
