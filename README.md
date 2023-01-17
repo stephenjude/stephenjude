@@ -1,4 +1,4 @@
-![](https://github.com/stephenjude/stephenjude/blob/master/profile_photo.jpg)
+![](https://github.com/stephenjude/stephenjude/blob/master/cover_image.jpg)
 
 ### Hi there 👋
 
