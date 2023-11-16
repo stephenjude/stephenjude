@@ -13,6 +13,7 @@ In my free time I've built and maintained various open-source projects of my own
 - [SendPortal SDK](https://github.com/stephenjude/laravel-sendportal) - The unofficial Laravel Package to work with the SendPortal APIs.
 - [Filament Blog Builder](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [Filament Debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament admin panel.
+- [Filament Feature Flags](https://github.com/stephenjude/filament-feature-flags) — Filament implementation of feature flags and feature segmentation with Laravel Pennant.
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [Api Test Helper](https://github.com/stephenjude/api-test-helper) - A collection of helper methods for testing and debugging API endpoints.
 - [Breeze Api](https://github.com/stephenjude/breeze-api) - Minimal Laravel API authentication scaffolding with Sanctum
