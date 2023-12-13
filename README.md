@@ -15,7 +15,6 @@ In my free time I've built and maintained various open-source projects of my own
 - [Filament Debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament admin panel.
 - [Filament Feature Flags](https://github.com/stephenjude/filament-feature-flags) — Filament implementation of feature flags and feature segmentation with Laravel Pennant.
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
-- [Api Test Helper](https://github.com/stephenjude/api-test-helper) - A collection of helper methods for testing and debugging API endpoints.
 - [Default Model Sorting](https://github.com/stephenjude/default-model-sorting) - Add custom default sorting column to your eloquent model.
 
 I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.me).
