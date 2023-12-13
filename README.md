@@ -16,11 +16,7 @@ In my free time I've built and maintained various open-source projects of my own
 - [Filament Feature Flags](https://github.com/stephenjude/filament-feature-flags) — Filament implementation of feature flags and feature segmentation with Laravel Pennant.
 - [Extended Artisan Commands](https://github.com/stephenjude/extended-artisan-commands) - Generate plain PHP classes, traits and interfaces using artisan console commands.
 - [Api Test Helper](https://github.com/stephenjude/api-test-helper) - A collection of helper methods for testing and debugging API endpoints.
-- [Breeze Api](https://github.com/stephenjude/breeze-api) - Minimal Laravel API authentication scaffolding with Sanctum
 - [Default Model Sorting](https://github.com/stephenjude/default-model-sorting) - Add custom default sorting column to your eloquent model.
-- [Simple Query Filter](https://github.com/stephenjude/simple-query-filter) - Filter Eloquent ORM queries based on HTTP request.
-- [Paystacklite](https://github.com/stephenjude/paystack-lite) - The Fastest Way To Setup Paystack Checkout Form In Your Laravel Application.
-- [Lite Blog](https://github.com/stephenjude/lite-blog) - A Laravel blog generator.
 
 I also run a [local laravel community](https://chat.whatsapp.com/E8JlxxKj9cECSihKA92fgG) here in Nigeria. Occasionally, I also speak at conferences and user groups. And I also blog from time to time about various things on [my website](https://stephenjude.me).
 
