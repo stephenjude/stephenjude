@@ -11,6 +11,7 @@ In my free time I've built and maintained various open-source projects of my own
 - [BlocHQ Bank SDK](https://github.com/stephenjude/blochq-php-sdk) - An SDK to easily work with the BlocHQ API.
 - [Providus Bank SDK](https://github.com/stephenjude/providus-sdk) - A Laravel wrapper to easily work with the Providus Bank collection API.
 - [SendPortal SDK](https://github.com/stephenjude/laravel-sendportal) - The unofficial Laravel Package to work with the SendPortal APIs.
+- [Filament Jetstream](https://github.com/stephenjude/filament-jetstream) - Integrate all Laravel Jetstream features into your Filament application.
 - [Filament Blog Builder](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 - [Filament Debugger](https://github.com/stephenjude/filament-debugger) - Easily add Laravel Telescope and Horizon to Filament admin panel.
 - [Filament Feature Flags](https://github.com/stephenjude/filament-feature-flags) — Filament implementation of feature flags and feature segmentation with Laravel Pennant.
