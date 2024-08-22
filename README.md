@@ -1,5 +1,3 @@
-![](https://github.com/stephenjude/stephenjude/blob/master/cover_image.jpg)
-
 ### Hi there 👋
 
 I'm [Jude](https://stephenjude.me), open-source maintainer and the CTO of [Pay4Me](https://pay4me.app/) where I build and maintain both external and internal APIs while managing the engineering team.
